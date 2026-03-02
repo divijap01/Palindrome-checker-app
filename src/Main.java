@@ -1,2 +1,27 @@
-git config --global user.name "divijap01"
-git config --global user.email "divijavikaspawar01@gmail.com"
+public class Main {
+    public static void main(String[] args) {
+        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+        // to see how IntelliJ IDEA suggests fixing it.
+        System.out.printf("Hello and welcome!");
+        public class PalindromeCheckerApp {
+    /*
+    Application entry Point
+
+        for (int i = 1; i <= 5; i++) {
+            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
+            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
+            System.out.println("i = " + i);
+        }
+    This is the first method executed by the JVM
+    when the program starts
+
+    @author Developer
+    @version 1.0
+     */
+
+            public static  void main(String []args){
+                System.out.println("Welcome to the Palindrom Checker");
+                System.out.println("Version 1.0");
+                System.out.println("System initialised succesfully");
+            }
+        }
